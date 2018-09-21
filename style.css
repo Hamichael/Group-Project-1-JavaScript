@@ -1,14 +1,26 @@
 body {
-	
+    color: 		 	black;
+    background-color: 	 	#90EE90;
+    font-size: 25px;
+    text-align: left;
 }
-
 #add {
-	background-color: red;
-	color: white;
+	background-color:red;
+	font-size: 15px;
+	color : white;
 }
-
 #subtract {
 	background-color: orange;
+	font-size: 15px;
 	color: white;
 }
-#multiply
+#multiply {
+	background-color: blue;
+	font-size: 15px;
+	color: white;
+}
+#divide {
+	background-color: green;
+	font-size: 15px;
+	color: white;
+}
