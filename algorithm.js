@@ -16,3 +16,31 @@ function add() {
 	//console.log(arr[0]);
 	//console.log(arr[1]);
 }
+
+
+function multiply() {
+	assignValues(arr);
+	
+	alert(arr[0] + " * " + arr[1] + " = " + (arr[0] * arr[1]));
+	
+	//console.log(arr[0]);
+	//console.log(arr[1]);
+}
+
+function divide() {
+	assignValues(arr);
+	
+	alert(arr[0] + " / " + arr[1] + " = " + (arr[0] / arr[1]));
+	
+	//console.log(arr[0]);
+	//console.log(arr[1]);
+}
+
+function subtract() {
+	assignValues(arr);
+	
+	alert(arr[0] + " - " + arr[1] + " = " + (arr[0] - arr[1]));
+	
+	//console.log(arr[0]);
+	//console.log(arr[1]);
+}
