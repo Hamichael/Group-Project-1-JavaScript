@@ -1,6 +1,6 @@
-# CONTRIBUTIONS #
+# CONTRIBUTIONS
 
-Michael - Sample algorithm, Bug-fixing CSS/JavaScript, and writing down MD<br/>
+Michael - Sample algorithm, Bug-fixing HTML/CSS/JavaScript, and formatting MD<br/>
 Susana - CSS<br/>
-Grethel - JavaScript<br/>
+Grethel - HTML/JavaScript<br/>
 Natalie - JavaScript<br/>
