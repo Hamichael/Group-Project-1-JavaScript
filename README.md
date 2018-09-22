@@ -1,11 +1,11 @@
 # Group-Project-1-JavaScript
 PSA: Make a branch instead of uploading directly into the Main when making changes.
-Master [Main version] < Developer [Working version] < Feature [Work here]
+Master [Main version] < Developer [Working version] < Feature [Work here]<br/>
 -----
 # CONTRIBUTIONS
-Michael: Sample algorithm and bug-fixing<br/>
-<br/>
-<br/>
+Michael - Sample algorithm and bug-fixing<br/>
+Susana - CSS<br/>
+Grethel & Natalie - JavaScript<br/>
 -----
 # ALGORITHM
 Function to input 2 values into Array of size 2.<br/>
